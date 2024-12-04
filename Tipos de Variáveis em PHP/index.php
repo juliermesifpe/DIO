@@ -9,6 +9,7 @@
     <?php
         $string = "Curso na DIO";
         $numeros = 50;
+        $array = array("PHP", "HTML", "CSS", "JAVA");
     ?>
     <h4>
         Essa é uma variável do tipo string, para implementar uma variável do tipo string, utilizamos aspas simples ('') ou duplas ("") : 
@@ -20,6 +21,12 @@
         Essa é uma variável do tipo numeros/integer, para implementar essa variavel utilizamos somente os números desta forma :
         <?php
             echo $numeros;
+        ?>
+    </h4>
+    <h4>
+        Essa é uma variável com um array, para implementar um array em uma variável utilizamos desta forma :
+        <?php
+            print_r($array);
         ?>
     </h4>
 </body>

@@ -1,0 +1,12 @@
+{
+    "name": "julio/gerenciamento-de-pacotes-em-php-com-composer",
+    "description": "Estudando Composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Julio Mendes",
+            "email": "juliomendes160@hotmail.com"
+        }
+    ],
+    "require": {}
+}

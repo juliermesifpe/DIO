@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'e5d1543746e8d4d05b1e6fdec1491b012c6d2b80',
+        'reference' => 'ae8293aca14ac087c0e6146de1a25808652a236f',
         'name' => 'julio/gerenciamento-de-pacotes-em-php-com-composer',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'e5d1543746e8d4d05b1e6fdec1491b012c6d2b80',
+            'reference' => 'ae8293aca14ac087c0e6146de1a25808652a236f',
             'dev_requirement' => false,
         ),
         'mpdf/mpdf' => array(

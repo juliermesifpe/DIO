@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'type' => 'project',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => 'e5d1543746e8d4d05b1e6fdec1491b012c6d2b80',
+        'name' => 'julio/gerenciamento-de-pacotes-em-php-com-composer',
+        'dev' => true,
+    ),
+    'versions' => array(
+        'julio/gerenciamento-de-pacotes-em-php-com-composer' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => 'e5d1543746e8d4d05b1e6fdec1491b012c6d2b80',
+            'dev_requirement' => false,
+        ),
+        'mpdf/mpdf' => array(
+            'pretty_version' => 'v6.1.3',
+            'version' => '6.1.3.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../mpdf/mpdf',
+            'aliases' => array(),
+            'reference' => '7f138bf7508eac895ac2c13d2509b056ac7e7e97',
+            'dev_requirement' => false,
+        ),
+        'setasign/fpdi' => array(
+            'pretty_version' => '1.6.2',
+            'version' => '1.6.2.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../setasign/fpdi',
+            'aliases' => array(),
+            'reference' => 'a6ad58897a6d97cc2d2cd2adaeda343b25a368ea',
+            'dev_requirement' => false,
+        ),
+    ),
+);

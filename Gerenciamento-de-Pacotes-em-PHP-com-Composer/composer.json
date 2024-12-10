@@ -8,5 +8,7 @@
             "email": "juliomendes160@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "mpdf/mpdf": "^6.1"
+    }
 }
